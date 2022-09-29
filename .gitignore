@@ -163,7 +163,10 @@ dist
 # Support for Project snippet scope
 .vscode/*.code-snippets
 
-# Ignore code-workspaces
-*.code-workspace
+# code-workspacesは無視しない
+# # Ignore code-workspaces
+# *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node
+
+.banmems-backend/public/frontend
