@@ -39,6 +39,8 @@ npm run dev
 npm run build
 ```
 
+npm init vue@latest
+
 https://zenn.dev/tempra/articles/a8405c5a5fe448
 
 https://next.vuetifyjs.com/en/components/buttons/
