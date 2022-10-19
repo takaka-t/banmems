@@ -1,5 +1,8 @@
 {
+  // 改行コードを設定
   "files.eol": "\n",
+  // フォーマッターをprettierに設定
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // 保存時にフォーマット
   "editor.formatOnSave": true
 }

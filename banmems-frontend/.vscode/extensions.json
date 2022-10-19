@@ -1,7 +1,11 @@
+// Dockerを活用するためにDevContaners拡張機能を使用する。
+// その設定ファイルであるdevcontainer.jsonに必要な拡張機能を指定しているため不要。
+// {
+//   "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+// }
 {
   "recommendations": [
-    "Vue.volar",
-    "Vue.vscode-typescript-vue-plugin",
-    "esbenp.prettier-vscode"
+    "ms-ceintl.vscode-language-pack-ja",
+    "ms-vscode-remote.remote-containers"
   ]
 }
