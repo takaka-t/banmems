@@ -5,7 +5,11 @@
 // }
 {
   "recommendations": [
+    // 日本語パッケージ
     "ms-ceintl.vscode-language-pack-ja",
-    "ms-vscode-remote.remote-containers"
+    // コード整形
+    "esbenp.prettier-vscode",
+    // Docker用のリモートコンテナ拡張機能
+    "ms-vscode-remote.remote-containers",
   ]
 }
